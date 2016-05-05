@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am a student at CareerFoundry and I am about to begin the adventure of building my first app! 
 
 Things you may want to cover:
 
