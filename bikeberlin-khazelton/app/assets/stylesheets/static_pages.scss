@@ -1,0 +1,46 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+ html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+	text-align:center; min-width:600px;
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+#pagebox { 
+	text-align:left; width:600px; margin-left:auto; margin-right:auto; 
+}
+
+nav {
+	font-family: 'Monserrat', Helvetica, sans-serif; 
+}
+
+h1 {
+	font-family: 'Montserrat', Helvetica, sans-serif;
+}
+
+p {
+	font-family: 'Montserrat', Helvetica, sans-serif;
+}
+
+
+
+
+
+
+.footer {
+	font-family: 'Montserrat', Helvetica, sans-serif;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: lightgray;
+  text-align: center;
+
+}
